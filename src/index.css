@@ -5,9 +5,14 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background: url('./assets/bgimg.jpg');
+  background: url('./assets/bgimg1.jpg');
   background-size: cover;
   background-repeat: no-repeat;
+}
+
+
+.h_color{
+  color:blue;
 }
 
 code {

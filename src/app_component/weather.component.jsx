@@ -5,7 +5,7 @@ const Weather = (props) => {
     return(
         <div className="container text-light">
            <div className="cards pt-4">
-           <h1> Weather App </h1>
+           <h1 className="h_color"> Weather App </h1>
             <h1>
             {props.city}
             </h1>
